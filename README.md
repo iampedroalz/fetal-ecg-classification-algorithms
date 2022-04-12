@@ -1,4 +1,5 @@
-This project contains research about fetal QRS extraction did it on my Bachelor's thesis.
+
+## Summary 👨‍💻
 
 **International Conference on Bioinformatics and Biomedical Engineering 2017 - Classification algorithms for fetal QRS extraction in abdominal ECG signals**
 
